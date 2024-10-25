@@ -1,0 +1,58 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+.pyenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Logs and debug files
+*.log
+*.tmp
+
+# Python packaging files
+*.egg-info/
+.eggs/
+dist/
+build/
+Lib/
+Scripts/
+# PyInstaller files
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.cache/
+
+# Environment variable files (if applicable)
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# MyPy and linting files
+.mypy_cache/
+.pyre/
+.pylint.d/
+.flake8
